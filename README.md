@@ -1,5 +1,5 @@
 - 👀 I’m Tarun Thomas
-- 🌱 2nd Year (3rd Semester) Computer Programming Student 
+- 🌱 2nd Year (3rd Semester) Computer Science Student 
 - 🥅 Learning OOPS, JavaScript, C++ and SQL
 - 📫 Pre-Developer 
 
