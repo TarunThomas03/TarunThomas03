@@ -1,5 +1,5 @@
 - 👀 I’m Tarun Thomas
-- 🌱 2nd Year (4rd Semester) Computer Science Student 
+- 🌱 2nd Year (4rd Semester) Computer Science Student
 - 🥅 Learning Python and MongoDB
 - 📫 Pre-Developer 
 
