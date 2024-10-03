@@ -1,6 +1,6 @@
 - 👀 I’m Tarun Thomas
-- 🌱 2nd Year (4rd Semester) Computer Science Student
-- 🥅 Learning Python and MongoDB
+- 🌱 2nd Year Computer Science Student
+- 🥅 Learning Python and Oracle
 - 📫 Pre-Developer 
 
 <!---
